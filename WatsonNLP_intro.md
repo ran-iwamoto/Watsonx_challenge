@@ -55,15 +55,15 @@ List of the supported languages for each syntax taskTask
 
 ## Supported language codes
 
-Tokenization af, ar, bs, ca, cs, da, de, el, en, es, fi, fr, he, hi, hr, it, ja, ko, nb, nl, nn, pl, pt, ro, ru, sk, sr, sv, tr, zh_cn, zh_tw, zh
+- Tokenization: af, ar, bs, ca, cs, da, de, el, en, es, fi, fr, he, hi, hr, it, ja, ko, nb, nl, nn, pl, pt, ro, ru, sk, sr, sv, tr, zh_cn, zh_tw, zh
 
-Part-of-speech tagging af, ar, bs, ca, cs, da, de, nl, nn, el, en, es, fi, fr, he, hi, hr, it, ja, ko, nb, pl, pt, ro, ru, sk, sr, sv, tr, zh_cn, zh_tw, zh
+- Part-of-speech tagging: af, ar, bs, ca, cs, da, de, nl, nn, el, en, es, fi, fr, he, hi, hr, it, ja, ko, nb, pl, pt, ro, ru, sk, sr, sv, tr, zh_cn, zh_tw, zh
 
-Lemmatization af, ar, bs, ca, cs, da, de, el, en, es, fi, fr, he, hi, hr, it, ja, ko, nb, nl, nn, pl, pt, ro, ru, sk, sr, sv, tr, zh_cn, zh_tw, zh
+- Lemmatization: af, ar, bs, ca, cs, da, de, el, en, es, fi, fr, he, hi, hr, it, ja, ko, nb, nl, nn, pl, pt, ro, ru, sk, sr, sv, tr, zh_cn, zh_tw, zh
 
-Sentence detection af, ar, bs, ca, cs, da, de, el, en, es, fi, fr, he, hi, hr, it, ja, ko, nb, nl, nn, pl, pt, ro, ru, sk, sr, sv, tr, zh_cn, zh_tw, zh
+- Sentence detection: af, ar, bs, ca, cs, da, de, el, en, es, fi, fr, he, hi, hr, it, ja, ko, nb, nl, nn, pl, pt, ro, ru, sk, sr, sv, tr, zh_cn, zh_tw, zh
 
-Paragraph detection af, ar, bs, ca, cs, da, de, el, en, es, fi, fr, he, hi, hr, it, ja, ko, nb, nl, nn, pl, pt, ro, ru, sk, sr, sv, tr, zh_cn, zh_tw, zh
+- Paragraph detection: af, ar, bs, ca, cs, da, de, el, en, es, fi, fr, he, hi, hr, it, ja, ko, nb, nl, nn, pl, pt, ro, ru, sk, sr, sv, tr, zh_cn, zh_tw, zh
 
-Dependency parsing af, ar, bs, cs, da, de, en, es, fi, fr, hi, hr, it, ja, nb, nl, nn, pt, ro, ru, sk, sr, sv
+Dependency parsing: af, ar, bs, cs, da, de, en, es, fi, fr, hi, hr, it, ja, nb, nl, nn, pt, ro, ru, sk, sr, sv
 
